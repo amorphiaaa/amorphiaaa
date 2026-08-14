@@ -58,7 +58,6 @@ Evidence-backed lead generation system for exhibitions.
 
 **Tech:** Python · FastAPI · SQLAlchemy · Alembic · PostgreSQL · Redis · React · Vite · Nginx · Docker
 
-➡️ [Check the repository](YOUR_REPOSITORY_LINK)
 
 ---
 
@@ -68,7 +67,6 @@ Telegram automation system built with **TypeScript, Python, PostgreSQL, and Dock
 
 **Features:** plan selection, order tracking, admin approval workflow, Fragment/TON integration, and automated Premium delivery.
 
-➡️ [Check the repository](YOUR_REPOSITORY_LINK)
 
 ---
 
@@ -78,7 +76,6 @@ Full-stack web platform for a programming school built with **React, Python, and
 
 **Features:** responsive frontend, backend APIs, database integration, dynamic content, and user interactions.
 
-➡️ [Check the repository](YOUR_REPOSITORY_LINK)
 
 ---
 
