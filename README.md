@@ -1,4 +1,4 @@
-# Hi, I'm Sofiia! 👋
+# Hi, I'm Phia! 👋
 
 💻 **Full-Stack Developer**  
 🎓 Software and Data Engineering student at Singidunum University  
